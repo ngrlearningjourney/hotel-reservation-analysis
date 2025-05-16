@@ -53,7 +53,7 @@ Kaggle Dataset Source: https://www.kaggle.com/datasets/ahsan81/hotel-reservation
   
 5. **Developing Dashboard**
 Explore the insights through my interactive Tableau Public dashboard. Click the image below to view it:  
-[![Tableau Dashboard](./dashboard.png)](https://public.tableau.com/views/HotelBookingDashboard_17473676042980/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+[![Tableau Dashboard](./Dashboard.png)](https://public.tableau.com/views/HotelBookingDashboard_17473676042980/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 
 ---
