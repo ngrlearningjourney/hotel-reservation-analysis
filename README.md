@@ -34,7 +34,7 @@ Kaggle Dataset Source: https://www.kaggle.com/datasets/ahsan81/hotel-reservation
 ### 🛠️ Steps in the Analysis Process:
 
 1. **Data Collection**  
-   - Downloaded from Kaggle as a CSV file.
+   - Downloaded from [Kaggle](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset) as a CSV file.
 
 2. **Data Cleaning & Wrangling**  
    - Checked for missing values, duplicates, and formatting issues.
@@ -50,6 +50,8 @@ Kaggle Dataset Source: https://www.kaggle.com/datasets/ahsan81/hotel-reservation
    - Which rooms get canceled the most?
    - What rooms receive the most special requests?
    - Which factors are most related to booking cancellations?
+  
+**For a detailed analysis, process, and insight, you can view the notebook here : [Hotel Booking Analysis📄](https://github.com/ngrlearningjourney/hotel-reservation-analysis/blob/main/hotel_reservation_analysis.ipynb)**
   
 5. **Developing Dashboard**
 Explore the insights through my interactive Tableau Public dashboard. Click the image below to view it:  
