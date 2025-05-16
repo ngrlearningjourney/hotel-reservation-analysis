@@ -146,5 +146,5 @@ Based on these insights, here are data-driven recommendations for improvement:
 ## 📁 Project Files
 
 - `hotel_booking_analysis.ipynb` – All analysis steps and visualizations  
-- `hotel_booking_data.csv` – The dataset (available from Kaggle)  
+- `hotel_booking_data.csv` – The dataset (available from [Kaggle](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset))  
 - `README.md` – You're reading it!
