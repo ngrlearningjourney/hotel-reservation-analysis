@@ -105,8 +105,6 @@ Explore the insights through my interactive Tableau Public dashboard. Click the 
 
 # **Suggestions to Improve Hotel Performance**
 
-Based on these insights, here are data-driven recommendations for improvement:
-
 1. **Leverage Room Type 1’s Popularity More Strategically**
 
    * Since Room Type 1 is highly preferred (by families and repeat guests) but also has the most cancellations, consider:
